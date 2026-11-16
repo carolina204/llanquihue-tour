@@ -1,0 +1,5 @@
+SaboresDelLago;Gastronomico;35000
+PaseLlanquihue;Lacustre;25000
+RutaPatrimonial;Cultural;20000
+CocinaDelSur;Gastronomico;40000
+AventuraVolcan;Excursion;55000
