@@ -1,5 +1,5 @@
-SaboresDelLago;Gastronomico;35000
-PaseLlanquihue;Lacustre;25000
-RutaPatrimonial;Cultural;20000
-CocinaDelSur;Gastronomico;40000
-AventuraVolcan;Excursion;55000
+SaboresDelLago;Gastronomico;35000;Costanera;Llanquihue;Sabores Sur;+56911112222
+PaseoLlanquihue;Lacustre;25000;Lago Llanquihue;Puerto Varas;Navegacion Sur;+56933334444
+RutaPatrimonial;Cultural;20000;Museo Colonial;Frutillar;Cultura Local;+56955556666
+CocinaDelSur;Gastronomico;40000;Mercado Local;Puerto Montt;Cocina Regional;+56977778888
+AventuraVolcan;Excursion;55000;Volcan Osorno;Puerto Varas;Aventura Sur;+56999990000
